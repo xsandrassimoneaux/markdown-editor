@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Resolved deprecation warnings
 - Improved log message formatting
+
+## 2026-05-06
+- Verified API endpoint response schema
+- Drafted initial implementation plan for v2
