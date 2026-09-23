@@ -31,3 +31,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-02
 - Tested build on clean environment
 - Investigated performance bottleneck, noted findings
+
+## 2026-09-23
+- Cross-checked behaviour against spec
