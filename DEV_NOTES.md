@@ -34,3 +34,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-23
 - Cross-checked behaviour against spec
+
+## 2026-09-23
+- Ran linter, applied auto-fixes
+- Checked for memory leaks in long-running path
